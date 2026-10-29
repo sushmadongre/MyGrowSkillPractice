@@ -1,7 +1,9 @@
-<<<<<<< HEAD
+
 hello how r u
+
 this file updated by sushma
-=======
-Hello How r u
+
 This File add by Gaurau
->>>>>>> 8a46245f916c9ebcba1c7efdfa3f8d33babf02cc
+
+This file updated by nitin
+
